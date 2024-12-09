@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Astrid
+# Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Astrid
 <br> 
 
 I'm currently retraining in HTML, CSS and JavaScript and I'm loving it! I'm currently immersed in frontend development and I'm sharing my projects here!* 🌍  I'm based in Lille* ✉️  You can contact me at [astrid.segard@gmail.com](mailto:astrid.segard@gmail.com)
